@@ -1,0 +1,6 @@
+2020-01-23 20:03:04.4112 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-23 20:03:31.9779 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
+Current Version: 1.8.5
+Latest Version: 1.8.6
+2020-01-23 20:44:47.2501 [DEBUG] Error: Invalid token
+2020-01-23 20:44:47.4213 [DEBUG] Refresh token () error: {"err":"Invalid token"}

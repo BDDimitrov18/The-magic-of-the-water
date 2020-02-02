@@ -1,0 +1,119 @@
+2020-01-21 18:27:37.3892 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 18:27:49.7227 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
+Current Version: 1.8.5
+Latest Version: 1.8.6
+2020-01-21 18:41:22.1543 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 18:41:22.3822 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 18:41:41.2674 [DEBUG] Play mode: False
+2020-01-21 18:42:42.3430 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 18:42:42.5146 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 18:42:43.8094 [DEBUG] Play mode: False
+2020-01-21 19:07:58.1465 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 19:07:58.4387 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 19:08:00.5798 [DEBUG] Play mode: False
+2020-01-21 19:10:12.5920 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 19:10:12.7904 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 19:11:04.7180 [DEBUG] Play mode: False
+2020-01-21 19:37:03.5767 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:14:25.3903 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-01-21 20:14:25.4032 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-01-21 20:14:28.8462 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:14:28.9639 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:17:54.9528 [DEBUG] Play mode: False
+2020-01-21 20:17:59.6556 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:17:59.8800 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:19:58.3281 [DEBUG] Play mode: False
+2020-01-21 20:23:31.2030 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:23:31.3976 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:23:44.3438 [DEBUG] Play mode: False
+2020-01-21 20:23:59.8049 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:23:59.9500 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:24:02.3015 [DEBUG] Play mode: False
+2020-01-21 20:25:34.9754 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:25:35.1909 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:26:36.9288 [DEBUG] Play mode: False
+2020-01-21 20:26:40.5630 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:26:40.7253 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:26:44.1312 [DEBUG] Play mode: False
+2020-01-21 20:26:58.2473 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:26:58.3929 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:27:01.8139 [DEBUG] Play mode: False
+2020-01-21 20:29:33.4861 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:29:33.7065 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:29:38.4395 [DEBUG] Play mode: False
+2020-01-21 20:30:21.7493 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:30:21.9269 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:30:48.1838 [DEBUG] Play mode: False
+2020-01-21 20:32:54.4782 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:32:54.5924 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:33:58.8349 [DEBUG] Play mode: False
+2020-01-21 20:35:07.6478 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:35:07.7574 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:35:34.4285 [DEBUG] Play mode: False
+2020-01-21 20:38:14.7469 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:38:15.0551 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:38:24.6187 [DEBUG] Play mode: False
+2020-01-21 20:43:57.5519 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:43:57.9200 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:45:11.6312 [DEBUG] Play mode: False
+2020-01-21 20:45:36.9119 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:45:37.0855 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:47:14.5511 [DEBUG] Play mode: False
+2020-01-21 20:51:09.3463 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:51:09.6242 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 20:51:13.9420 [DEBUG] Play mode: False
+2020-01-21 20:59:59.2292 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 20:59:59.3722 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:00:09.5780 [DEBUG] Play mode: False
+2020-01-21 21:01:00.8987 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:01:01.1012 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:01:24.1279 [DEBUG] Play mode: False
+2020-01-21 21:01:38.2874 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:01:38.4858 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:02:08.7499 [DEBUG] Play mode: False
+2020-01-21 21:03:11.6071 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:03:11.8006 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:03:20.4613 [DEBUG] Play mode: False
+2020-01-21 21:03:31.5215 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:03:31.7379 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:03:36.4879 [DEBUG] Play mode: False
+2020-01-21 21:05:25.9226 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:05:26.0962 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:05:41.6625 [DEBUG] Play mode: False
+2020-01-21 21:15:18.7823 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:15:19.0058 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:15:36.8495 [DEBUG] Play mode: False
+2020-01-21 21:16:29.3650 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:16:29.4976 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:16:34.9105 [DEBUG] Play mode: False
+2020-01-21 21:16:58.4269 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:16:58.6144 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:17:02.5084 [DEBUG] Play mode: False
+2020-01-21 21:17:14.8154 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:17:14.9800 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:17:39.9724 [DEBUG] Play mode: False
+2020-01-21 21:18:17.8624 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:18:17.9941 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:18:21.8593 [DEBUG] Play mode: False
+2020-01-21 21:18:30.1514 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:18:30.2950 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:18:34.0142 [DEBUG] Play mode: False
+2020-01-21 21:18:42.8663 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:18:43.1001 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:18:48.1967 [DEBUG] Play mode: False
+2020-01-21 21:18:56.9966 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:18:57.2146 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:19:00.8819 [DEBUG] Play mode: False
+2020-01-21 21:19:07.0891 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:19:07.2197 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:19:44.6135 [DEBUG] Play mode: False
+2020-01-21 21:24:15.1069 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-21 21:24:15.2960 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-21 21:33:26.5668 [DEBUG] Play mode: False
+2020-01-21 23:02:39.4571 [DEBUG] Refresh token (fB14jM5ROB65ecJkeXPFnzMTaF2AJ3prYUzn9jpPNL81gdbQ07SZeZbqRm860cqcak1GKlFcFtCMoDprFt4k0xbzPWKxIMsnBeacsUPxxz2n8mg9HhcnMMzPdTslLhJhIz134NihWpYsPAbfqBeawc2gjofbpA0ygj1ES4Nb6JZDFbIHXXM9kAlgkWcwp6C02X1putMYkOG9mlFwuHZwkp97SNcG4nF5JWh2UZjeloCkK029jfqQMLww4W7sELf) error: {"err":"Error: ConnectFailure (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.\r\n)"}
