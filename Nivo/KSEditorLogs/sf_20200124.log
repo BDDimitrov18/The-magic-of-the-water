@@ -1,5 +1,0 @@
-2020-01-24 18:49:21.1748 [DEBUG] Scene Fusion version 1.8.5-1
-2020-01-24 18:49:49.4684 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
-Current Version: 1.8.5
-Latest Version: 1.8.6
-2020-01-24 21:52:19.9619 [DEBUG] Refresh token (GCfrALUdY3mGcjZjXceYijPOJJOYQDzMHUdeFSGxo7pqpFzYkoKiFNZ0zJUISQgsqhQJni4waXmhOCWfxHJXddudOTbezEO8KQsHkBcX620i6YSbP9Hl3S8yNgnairfntz2yRcf2sdpRY5qefBOeWEXFRFnbeWZA5dB4IT3qkhnhzjLlx0c0mJaJU0GtwePIA1SJbja5Mo6dsuEPMD8XGPMq7mlgO6a9RTdgZd13FUEkOfWb5ENwFUuypPJXfPi) error: {"err":"Error: ConnectFailure (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.\r\n)"}

@@ -1,0 +1,209 @@
+2020-01-10 18:20:43.0480 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 18:38:09.5197 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 19:10:35.7982 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 19:23:14.3095 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 19:23:14.5895 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 19:24:04.5626 [DEBUG] Play mode: False
+2020-01-10 19:24:11.0515 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 19:24:11.2966 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 19:24:36.0232 [DEBUG] Play mode: False
+2020-01-10 19:24:42.5391 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 19:24:42.9381 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 19:24:55.0471 [DEBUG] Play mode: False
+2020-01-10 20:06:15.7676 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:06:16.2036 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:06:30.1510 [DEBUG] Play mode: False
+2020-01-10 20:08:24.4387 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:08:24.8437 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:09:35.1289 [DEBUG] Play mode: False
+2020-01-10 20:10:19.1746 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:10:19.4326 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:10:23.7916 [DEBUG] Play mode: False
+2020-01-10 20:10:55.7217 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:10:56.0997 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:11:01.3457 [DEBUG] Play mode: False
+2020-01-10 20:11:59.4217 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:11:59.6588 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:12:36.5209 [DEBUG] Play mode: False
+2020-01-10 20:13:04.6091 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:13:04.8199 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:13:09.6519 [DEBUG] Play mode: False
+2020-01-10 20:15:05.7201 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:15:05.9311 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:15:13.8275 [DEBUG] Play mode: False
+2020-01-10 20:18:01.1811 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:18:01.4431 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:18:18.4786 [DEBUG] Play mode: False
+2020-01-10 20:24:26.2408 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:24:26.4838 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:24:47.5448 [DEBUG] Play mode: False
+2020-01-10 20:24:54.1269 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:24:54.4019 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:24:58.2459 [DEBUG] Play mode: False
+2020-01-10 20:26:00.9959 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:26:01.2369 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:27:42.4829 [DEBUG] Play mode: False
+2020-01-10 20:28:52.1798 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:31:03.6497 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-01-10 20:31:03.6547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-01-10 20:31:09.8252 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:31:10.2542 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:31:23.1692 [DEBUG] Play mode: False
+2020-01-10 20:40:05.8489 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:41:00.9160 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-01-10 20:41:00.9220 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-01-10 20:41:06.2640 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:41:06.4451 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:41:42.2130 [DEBUG] Play mode: False
+2020-01-10 20:42:58.6911 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:43:50.2948 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-01-10 20:43:50.3008 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-01-10 20:43:56.3799 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:43:56.6648 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:44:16.2098 [DEBUG] Play mode: False
+2020-01-10 20:44:59.6624 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:44:59.8663 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:45:12.1733 [DEBUG] Play mode: False
+2020-01-10 20:45:20.8048 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:45:21.0059 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:45:37.2060 [DEBUG] Play mode: False
+2020-01-10 20:46:22.3344 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:46:22.5764 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:46:36.4084 [DEBUG] Play mode: False
+2020-01-10 20:47:38.2649 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:47:38.4739 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:48:15.4129 [DEBUG] Play mode: False
+2020-01-10 20:48:29.8864 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:48:30.0804 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:54:13.6542 [DEBUG] Play mode: False
+2020-01-10 20:57:55.6872 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:57:55.8862 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:58:32.1972 [DEBUG] Play mode: False
+2020-01-10 20:58:41.1182 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 20:58:41.3272 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 20:59:21.0932 [DEBUG] Play mode: False
+2020-01-10 21:08:57.4422 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 21:08:57.6752 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 21:09:15.0957 [DEBUG] Play mode: False
+2020-01-10 21:18:30.1118 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 21:18:30.4108 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 21:18:38.3361 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-01-10 21:18:38.4021 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-01-10 21:18:56.5994 [DEBUG] Play mode: False
+2020-01-10 21:19:30.9117 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 21:19:31.3999 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 21:20:02.9509 [DEBUG] Play mode: False
+2020-01-10 21:44:17.5110 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 21:44:17.9260 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 21:44:31.4789 [DEBUG] Play mode: False
+2020-01-10 21:44:37.8856 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 21:44:38.3126 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 21:44:49.1986 [DEBUG] Play mode: False
+2020-01-10 22:02:05.1589 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 22:02:08.7859 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-01-10 22:02:08.7909 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-01-10 22:44:36.6910 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 22:45:17.9409 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 22:45:18.1425 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 22:45:45.5806 [DEBUG] Play mode: False
+2020-01-10 22:46:12.7393 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 22:46:13.1333 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 22:46:30.9348 [DEBUG] Play mode: False
+2020-01-10 22:52:36.5437 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 22:52:36.9513 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 22:52:58.1194 [DEBUG] Play mode: False
+2020-01-10 22:54:05.3034 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 22:54:05.7044 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 22:54:19.7764 [DEBUG] Play mode: False
+2020-01-10 22:54:42.5097 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 22:54:42.7476 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 22:59:53.8163 [DEBUG] Play mode: False
+2020-01-10 23:08:41.3867 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:08:41.9364 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:08:43.5258 [DEBUG] Play mode: False
+2020-01-10 23:08:52.4154 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:08:52.7054 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:09:08.8529 [DEBUG] Play mode: False
+2020-01-10 23:10:06.6836 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:10:07.1224 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:10:08.8023 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.TakeDamage (UnityEngine.GameObject target) (at Assets/Scripts/Bullet.cs:69)
+Bullet.Update () (at Assets/Scripts/Bullet.cs:30)
+
+2020-01-10 23:10:08.9513 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.TakeDamage (UnityEngine.GameObject target) (at Assets/Scripts/Bullet.cs:69)
+Bullet.Update () (at Assets/Scripts/Bullet.cs:30)
+
+2020-01-10 23:10:09.0693 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.TakeDamage (UnityEngine.GameObject target) (at Assets/Scripts/Bullet.cs:69)
+Bullet.Update () (at Assets/Scripts/Bullet.cs:30)
+
+2020-01-10 23:12:18.5445 [DEBUG] Play mode: False
+2020-01-10 23:12:53.5687 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:13:11.9052 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:13:12.1491 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:13:23.8069 [DEBUG] Play mode: False
+2020-01-10 23:13:48.3733 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:25:24.5401 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:25:51.3557 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:25:51.5677 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:26:18.7356 [DEBUG] Play mode: False
+2020-01-10 23:27:06.3238 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:27:06.7458 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:27:26.9307 [DEBUG] Play mode: False
+2020-01-10 23:27:53.0977 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:27:53.3126 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:28:17.5423 [DEBUG] Play mode: False
+2020-01-10 23:28:25.9522 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:28:26.3823 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:29:08.7750 [DEBUG] Play mode: False
+2020-01-10 23:30:58.3480 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:30:58.7086 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:31:50.9576 [DEBUG] Play mode: False
+2020-01-10 23:32:54.4561 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:32:54.9665 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:32:57.5277 [DEBUG] Play mode: False
+2020-01-10 23:34:24.8491 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:34:25.3150 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:35:11.1177 [DEBUG] Play mode: False
+2020-01-10 23:47:39.0328 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:53:52.9740 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:53:53.1719 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:54:01.8036 [DEBUG] Play mode: False
+2020-01-10 23:54:20.7322 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:54:20.9728 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:54:30.4004 [DEBUG] Play mode: False
+2020-01-10 23:54:36.3432 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:54:36.7156 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:54:54.3502 [DEBUG] Play mode: False
+2020-01-10 23:56:05.0350 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-10 23:56:05.3990 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-10 23:56:33.4593 [DEBUG] Play mode: False
