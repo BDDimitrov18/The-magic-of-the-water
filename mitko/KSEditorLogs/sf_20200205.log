@@ -1,0 +1,168 @@
+2020-02-05 00:01:59.4824 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-05 00:01:59.7114 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-05 00:02:04.8905 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:04.9325 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:04.9665 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.0015 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.0355 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.0705 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.1065 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.1405 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.1755 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.2095 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.2465 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.2815 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.3155 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.3505 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.3845 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.4215 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.4565 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.4905 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.5235 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.5595 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.6115 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.6445 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.6805 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.7145 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.7525 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.7865 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.8215 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.8565 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.8895 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.9235 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.9595 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:05.9935 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:06.0275 [ERROR] UnassignedReferenceException: The variable deathpanel of HealthBar has not been assigned.
+You probably need to assign the deathpanel variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:47)
+
+2020-02-05 00:02:08.4849 [DEBUG] Play mode: False
