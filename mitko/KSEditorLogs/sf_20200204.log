@@ -1,0 +1,1329 @@
+2020-02-04 15:45:02.6964 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 15:45:17.3018 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
+Current Version: 1.8.5
+Latest Version: 1.8.6
+2020-02-04 15:48:05.4683 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 15:48:05.7994 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:05.9833 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 15:48:05.9993 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.1213 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.1523 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.1883 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.2223 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.2563 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.2913 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.3254 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.3603 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.3933 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.4294 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.4634 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.4974 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.5314 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.5664 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.6003 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.6354 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.6703 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.7054 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.7384 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.7734 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.8143 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.8424 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.8764 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.9113 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.9444 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:06.9794 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.0133 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.0483 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.0823 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.1153 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.1513 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.1854 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.2193 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.2534 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.2894 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.3234 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.3564 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.3914 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.4264 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.4604 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.4954 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.5294 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.5644 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.5984 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.6344 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.6674 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.7014 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.7354 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.7694 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.8080 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.8390 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.8730 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.9079 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.9420 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:07.9759 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.0109 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.0460 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.0790 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.1140 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.1490 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.1820 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.2170 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.2509 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.2860 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.3199 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.3530 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.3890 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.4240 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.4579 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.4920 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.5260 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.5610 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.5950 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.6300 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.6640 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.6974 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.7336 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.7683 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.8014 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.8354 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.8714 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.9054 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.9388 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:08.9728 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.0079 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.0424 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.0761 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.1131 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.1452 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.1801 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.2141 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.2491 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.2821 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.3181 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.3511 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.3861 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.4211 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.4561 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.4901 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.5241 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.5731 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.5931 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.6262 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.6621 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.6951 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.7312 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.7651 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.7982 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.8341 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.8681 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.9021 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.9362 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:09.9702 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.0052 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.0391 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.0742 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.1082 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.1431 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.1762 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.2112 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.2472 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.2801 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.3132 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.3491 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.3831 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.4171 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.4521 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.4871 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.5211 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.5541 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.5902 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.6241 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.6581 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.6931 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.7272 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.7631 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.7962 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.8321 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.8682 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.8992 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.9351 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:10.9681 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.0022 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.0361 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.0732 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.1072 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.1401 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.1741 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.2091 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.2441 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.2781 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.3111 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.3471 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.3801 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.4151 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.4501 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.4851 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.5181 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.5522 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.5872 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.6221 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.6551 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.6901 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.7241 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.7581 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.7931 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.8281 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.8632 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.8971 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.9312 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.9651 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:11.9991 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.0351 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.0682 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.1021 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.1372 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.1722 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.2062 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.2412 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.2742 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.3091 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.3441 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.3771 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.4121 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.4472 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.4821 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.5151 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.5512 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.5841 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.6181 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.6531 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.6872 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.7211 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.7561 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.7911 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.8252 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.8581 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.8941 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.9281 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.9621 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:12.9971 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 15:48:13.0321 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.0671 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.1001 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.1362 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.1692 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.2031 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.2381 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.2721 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.3071 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.3411 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.3752 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.4091 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.4451 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.4771 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.5121 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.5482 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.5811 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.6151 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.6511 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.6852 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.7181 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.7551 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.7881 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.8221 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.8571 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.8912 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.9252 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.9622 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:13.9931 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:14.0451 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:14.0621 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:14.0972 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:14.1312 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:14.1651 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:14.1991 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:14.2341 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:40)
+
+2020-02-04 15:48:14.3911 [DEBUG] Play mode: False
+2020-02-04 15:58:41.5642 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 15:58:41.9573 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 15:58:47.4674 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:25)
+
+2020-02-04 15:58:47.4694 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:35)
+
+2020-02-04 15:58:52.5944 [DEBUG] Play mode: False
+2020-02-04 16:09:55.1546 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:09:55.3779 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 16:10:03.8609 [DEBUG] Play mode: False
+2020-02-04 16:10:27.2796 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:10:27.7106 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 16:10:39.9588 [DEBUG] Play mode: False
+2020-02-04 16:18:55.5722 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:20:25.2777 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 16:20:30.6328 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:20:30.8419 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 16:20:42.8568 [DEBUG] Play mode: False
+2020-02-04 16:22:03.7709 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:22:04.2009 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 16:22:07.8049 [DEBUG] Play mode: False
+2020-02-04 16:22:29.2897 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:22:29.7109 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 16:22:36.9689 [DEBUG] Play mode: False
+2020-02-04 16:26:33.7789 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:26:34.3142 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 16:26:42.2490 [DEBUG] Play mode: False
+2020-02-04 16:47:13.6943 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:56:56.9219 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 16:56:56.9359 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 16:56:56.9379 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 16:57:02.1466 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:57:44.9268 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 16:57:44.9357 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 16:57:44.9388 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 16:57:50.1757 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:57:50.2957 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:57:50.3708 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 16:57:50.3897 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:57:53.2478 [DEBUG] Play mode: False
+2020-02-04 16:58:56.2677 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:58:56.5857 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:56.6427 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 16:58:56.6607 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:56.7507 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:56.7807 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:56.8147 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:56.8477 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:56.8827 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:56.9167 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:56.9517 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:56.9857 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.0207 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.0547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.0887 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.1227 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.1597 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.1917 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.2267 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.2617 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.2947 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.3297 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.3637 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.3977 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.4327 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.4667 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.5017 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.5367 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.5707 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.6047 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.6387 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.6737 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.7077 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.7417 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.7767 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.8107 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.8457 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.8807 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.9137 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.9487 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:57.9827 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.0177 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.0517 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.0867 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.1197 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.1547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.1887 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.2237 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.2577 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.2927 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.3277 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.3607 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.3957 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:58:58.4317 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:59:04.0267 [DEBUG] Play mode: False
+2020-02-04 16:59:59.7097 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 16:59:59.8477 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 16:59:59.9067 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 16:59:59.9247 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.0176 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.0477 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.0816 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.1157 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.1507 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.1846 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.2187 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.2527 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.2876 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.3227 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.3566 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.3917 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.4247 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.4597 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.4937 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.5297 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.5637 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.5967 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.6317 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.6667 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.7017 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.7347 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.7697 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.8037 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.8386 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.8717 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.9067 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.9417 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:00.9757 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:01.0106 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:01.0447 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:01.0787 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:01.1126 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:01.1477 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:01.1816 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:01.2167 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:32)
+
+2020-02-04 17:00:04.3987 [DEBUG] Play mode: False
+2020-02-04 17:01:53.6361 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 17:07:26.8512 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:07:26.8632 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:07:26.8682 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:07:26.8702 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:07:32.2041 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 17:07:32.6031 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 17:07:46.6378 [DEBUG] Play mode: False
+2020-02-04 17:08:28.2598 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 17:08:28.6358 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 17:08:34.5149 [DEBUG] Play mode: False
+2020-02-04 17:13:04.7780 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 17:33:58.8765 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:33:58.8855 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:33:58.8905 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:33:58.8925 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:33:58.8945 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:34:05.1035 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 17:34:05.3265 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 17:34:11.2015 [DEBUG] Play mode: False
+2020-02-04 17:56:04.2871 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 17:56:19.3741 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:56:19.3811 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:56:19.3871 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:56:19.3901 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:56:19.3921 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:56:24.7991 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 17:58:33.7152 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:58:33.7292 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:58:33.7352 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:58:33.7382 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:58:33.7402 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:58:39.3419 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 17:59:26.7032 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:59:26.7132 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:59:26.7192 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:59:26.7222 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:59:26.7242 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 17:59:32.1642 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:00:13.4674 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:00:13.4804 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:00:13.4864 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:00:13.4894 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:00:13.4914 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:00:19.0541 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:00:20.5410 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:00:20.5550 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:00:20.5620 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:00:20.5640 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:00:20.5660 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:00:25.8141 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:00:26.0931 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:00:28.1580 [ERROR] UnassignedReferenceException: The variable pauseMenuUi of PauseMenu has not been assigned.
+You probably need to assign the pauseMenuUi variable of the PauseMenu script in the inspector.
+PauseMenu.Pause () (at Assets/Scripts/PauseMenu.cs:35)
+PauseMenu.Update () (at Assets/Scripts/PauseMenu.cs:21)
+
+2020-02-04 18:00:32.1831 [DEBUG] Play mode: False
+2020-02-04 18:00:53.8782 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:00:54.2382 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:01:56.1242 [DEBUG] Play mode: False
+2020-02-04 18:02:35.6331 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:02:35.8201 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:02:40.4040 [DEBUG] Play mode: False
+2020-02-04 18:04:35.6524 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:04:36.0290 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:04:45.7762 [DEBUG] Play mode: False
+2020-02-04 18:05:08.3700 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:05:08.7612 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:05:12.2443 [DEBUG] Play mode: False
+2020-02-04 18:06:50.0280 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:06:50.4152 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:06:55.6533 [DEBUG] Play mode: False
+2020-02-04 18:07:38.3161 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:07:38.6831 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:08:03.4235 [DEBUG] Play mode: False
+2020-02-04 18:20:21.0696 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:20:21.2616 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:20:30.0535 [DEBUG] Play mode: False
+2020-02-04 18:23:28.6738 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:23:28.8488 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:23:36.4068 [DEBUG] Play mode: False
+2020-02-04 18:24:23.3657 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:24:23.7447 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:24:29.1367 [DEBUG] Play mode: False
+2020-02-04 18:30:01.6607 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:30:09.7618 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:30:09.7639 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:30:09.7708 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:30:09.7768 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:30:09.7788 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:30:09.7798 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:30:09.7818 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:30:09.7838 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:30:09.7858 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:30:09.7959 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:209)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:197)
+
+2020-02-04 18:30:15.8342 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:30:16.1399 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:30:38.7990 [DEBUG] Play mode: False
+2020-02-04 18:31:04.0846 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:31:04.4823 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:31:18.4382 [DEBUG] Play mode: False
+2020-02-04 18:31:24.6602 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:31:25.0317 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:31:34.5421 [DEBUG] Play mode: False
+2020-02-04 18:32:18.3978 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:32:18.7218 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 18:32:30.1142 [DEBUG] Play mode: False
+2020-02-04 18:33:30.3631 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 18:33:30.5331 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 19:09:42.2951 [DEBUG] Play mode: False
+2020-02-04 21:43:34.6936 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 21:43:49.4567 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
+Current Version: 1.8.5
+Latest Version: 1.8.6
+2020-02-04 21:44:23.5945 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 21:44:23.8012 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 21:44:31.2793 [DEBUG] Play mode: False
+2020-02-04 21:48:46.6248 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 21:48:47.0020 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 21:49:11.2650 [DEBUG] Play mode: False
+2020-02-04 21:49:17.2687 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 21:49:17.6548 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 21:49:30.6697 [DEBUG] Play mode: False
+2020-02-04 21:52:26.1290 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 21:52:26.3678 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 21:52:41.7175 [DEBUG] Play mode: False
+2020-02-04 22:11:13.0846 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-04 22:11:13.5396 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-04 22:11:20.6222 [DEBUG] Play mode: False
