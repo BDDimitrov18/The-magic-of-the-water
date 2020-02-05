@@ -1,0 +1,533 @@
+2020-02-03 01:21:57.8682 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 01:22:24.5964 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
+Current Version: 1.8.5
+Latest Version: 1.8.6
+2020-02-03 01:39:39.0862 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 01:39:53.5285 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
+Current Version: 1.8.5
+Latest Version: 1.8.6
+2020-02-03 01:51:05.2716 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 01:51:05.4726 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 01:51:31.9996 [DEBUG] Play mode: False
+2020-02-03 01:59:29.6474 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 01:59:29.8644 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 02:00:21.3133 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Carrot.OnTriggerEnter2D (UnityEngine.Collider2D collision) (at Assets/Scripts/Carrot.cs:12)
+
+2020-02-03 02:00:45.5103 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.5984 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.6493 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.6834 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.7183 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.7523 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.7873 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.8194 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.8553 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.8933 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.9244 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.9583 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:45.9934 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.0264 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.0613 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.0963 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.1314 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.1643 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.1993 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.2343 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.2683 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.3023 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.3373 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.3713 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.4063 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.4383 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.4733 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.5103 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.5423 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.5773 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.6123 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.6463 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.6793 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.7173 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.7493 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.7823 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.8163 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.8513 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.8873 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.9203 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.9543 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:46.9894 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.0243 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.0573 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.0923 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.1273 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.1623 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.1963 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.2303 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.2643 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.2994 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.3343 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.3693 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.4024 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.4373 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.4723 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.5063 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.5393 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.5754 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.6094 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.6434 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.6773 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.7133 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.7473 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.7803 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.8153 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.8493 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.8853 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.9183 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.9534 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:47.9874 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.0203 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.0553 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.0904 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.1253 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.1593 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.1933 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.2273 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.2614 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.2963 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.3304 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.3663 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.3993 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.4333 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.4683 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.5024 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.5373 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.5714 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.6063 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.6403 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.6744 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.7093 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.7433 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.7783 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:48.8133 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:30)
+
+2020-02-03 02:00:50.3193 [DEBUG] Play mode: False
+2020-02-03 02:04:33.9985 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 02:04:34.1985 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 02:04:45.3025 [DEBUG] Play mode: False
+2020-02-03 02:05:27.2992 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 02:05:27.5691 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 02:05:35.3171 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:25)
+
+2020-02-03 02:05:35.3191 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:35)
+
+2020-02-03 02:05:35.7441 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:35)
+
+2020-02-03 02:05:35.7451 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:25)
+
+2020-02-03 02:05:38.3893 [DEBUG] Play mode: False
+2020-02-03 14:45:00.1023 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 14:45:00.4984 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 14:45:43.9443 [DEBUG] Play mode: False
+2020-02-03 15:07:24.1009 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 15:07:24.3299 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 15:07:28.7139 [DEBUG] Play mode: False
+2020-02-03 15:09:58.7691 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 15:09:58.9641 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 15:10:04.5110 [DEBUG] Play mode: False
+2020-02-03 15:10:41.3570 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 15:10:41.5530 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 15:10:47.3980 [DEBUG] Play mode: False
+2020-02-03 15:10:55.3701 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 15:10:55.7711 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 15:11:13.9161 [DEBUG] Play mode: False
+2020-02-03 15:47:11.3760 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 15:47:27.0140 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
+Current Version: 1.8.5
+Latest Version: 1.8.6
+2020-02-03 16:21:30.6256 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 16:21:30.8449 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 16:21:33.5019 [DEBUG] Play mode: False
+2020-02-03 18:06:50.8826 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:07:06.8500 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
+Current Version: 1.8.5
+Latest Version: 1.8.6
+2020-02-03 18:09:30.4957 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:15:32.1743 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:24:15.8048 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:24:42.7517 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:40:02.5532 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:40:02.8712 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 18:40:11.1400 [DEBUG] Play mode: False
+2020-02-03 18:40:44.2040 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:40:44.3980 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 18:40:56.7508 [DEBUG] Play mode: False
+2020-02-03 18:42:00.7382 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:42:01.1291 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 18:42:16.0154 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.0424 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.0764 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.1104 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.1514 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.1854 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.2204 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.2555 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.2884 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.3234 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.3584 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.3924 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.4265 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.4614 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.4964 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.5304 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.5654 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.6004 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.6344 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.6694 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.7044 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.7394 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.7735 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.8264 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.8624 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.8964 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.9304 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:16.9664 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:17.0014 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:17.0354 [ERROR] UnassignedReferenceException: The variable deathanim of HealthBar has not been assigned.
+You probably need to assign the deathanim variable of the HealthBar script in the inspector.
+UnityEngine.Animator.SetTrigger (System.String name) (at C:/buildslave/unity/build/Runtime/Animation/ScriptBindings/Animator.bindings.cs:358)
+HealthBar.Update () (at Assets/Scripts/HealthBar.cs:50)
+
+2020-02-03 18:42:42.6505 [DEBUG] Play mode: False
+2020-02-03 18:46:12.2206 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:46:12.4446 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 18:46:29.8242 [DEBUG] Play mode: False
+2020-02-03 18:47:01.0006 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:47:01.4206 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 18:47:21.9306 [DEBUG] Play mode: False
+2020-02-03 18:50:24.0896 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:50:24.4503 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 18:50:44.4203 [DEBUG] Play mode: False
+2020-02-03 18:52:15.4387 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:52:15.7856 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 18:52:21.0426 [DEBUG] Play mode: False
+2020-02-03 18:52:49.8741 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:52:50.4161 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 18:53:10.6267 [DEBUG] Play mode: False
+2020-02-03 18:56:35.2078 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:56:35.6110 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 18:56:52.4778 [DEBUG] Play mode: False
+2020-02-03 18:59:39.3083 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 18:59:39.6844 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 19:00:00.6894 [DEBUG] Play mode: False
+2020-02-03 19:00:34.1592 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-03 19:00:34.5554 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-03 19:01:03.6665 [DEBUG] Play mode: False
