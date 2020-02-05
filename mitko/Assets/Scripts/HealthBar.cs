@@ -10,8 +10,6 @@ public class HealthBar : MonoBehaviour
     public float nowHealth;
     public Sprite[] sprites = new Sprite[4];
     public Animator anim;
-    public Animator deathpanel;
-    public Animator[] deathanim = new Animator[3];
   
 
     private void Start()
@@ -44,11 +42,6 @@ public class HealthBar : MonoBehaviour
                 GameObject.Find("HealthHud").GetComponent<Image>().sprite = sprites[0];
                 anim.SetBool("Died", true);
                 gameObject.GetComponent<Movement>().moveallow = false;
-                deathpanel.SetTrigger("Death");
-                foreach (Animator an in deathanim)
-                {
-                    an.SetTrigger("StartTr");
-                }
             }
         }
         else

@@ -25,46 +25,44 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!PauseMenu.GameIsPaused)
+
+        horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+        if (Input.GetButton("Horizontal") && !Input.GetButtonDown("Fire1"))
         {
-            horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
-            if (Input.GetButton("Horizontal") && !Input.GetButtonDown("Fire1"))
+            if (horizontalMove > 0)
             {
-                if (horizontalMove > 0)
-                {
-                    transform.eulerAngles = new Vector3(0f, 0f, 0f);
-                }
-                else if (horizontalMove < 0)
-                {
-                    transform.eulerAngles = new Vector3(0f, 180f, 0f);
-                }
+                transform.eulerAngles = new Vector3(0f, 0f, 0f);
             }
-            verticalMove = Input.GetAxisRaw("Vertical") * runSpeed;
-
-            animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
-
-            if (inwater == false)
+            else if (horizontalMove < 0)
             {
-                if (allow == true)
+                transform.eulerAngles = new Vector3(0f, 180f, 0f);
+            }
+        }
+        verticalMove = Input.GetAxisRaw("Vertical") * runSpeed;
+
+        animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
+
+        if (inwater == false)
+        {
+            if (allow == true)
+            {
+                if (jump < 2)
                 {
-                    if (jump < 2)
+                    if (Input.GetButtonDown("Jump"))
                     {
-                        if (Input.GetButtonDown("Jump"))
-                        {
-                            jump++;
-                            Debug.Log(jump);
-                        }
+                        jump++;
+                        Debug.Log(jump);
                     }
                 }
+            }
 
-                if (Input.GetKeyDown("s") || Input.GetKeyDown("down"))
-                {
-                    crouch = true;
-                }
-                else if (Input.GetKeyUp("s") || Input.GetKeyUp("down"))
-                {
-                    crouch = false;
-                }
+            if (Input.GetKeyDown("s") || Input.GetKeyDown("down"))
+            {
+                crouch = true;
+            }
+            else if (Input.GetKeyUp("s") || Input.GetKeyUp("down"))
+            {
+                crouch = false;
             }
         }
     }

@@ -6,12 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
-    guid: 0319e3ab82de142428ab5c7b44d7ea8a
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9c443a9d9b8231a429695361d95d6f7c
   - enabled: 1
     path: Assets/Scenes/Forest.unity
     guid: 3734b610e8f21704692149df25110491
   - enabled: 1
-    path: Assets/Scenes/EscMenu.unity
-    guid: 76394118a3c8f7648b68388935300ccd
+    path: Assets/Scenes/ice.unity
+    guid: 39c1889ee17df7f46827a9896495a4dd
+  - enabled: 1
+    path: Assets/Scenes/WaterLevel.unity
+    guid: 9a6eac1f1dc8f1f4ebb8fe2ea1f0e4ad
   m_configObjects: {}

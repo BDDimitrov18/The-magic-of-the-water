@@ -11,9 +11,9 @@ public class Attack : MonoBehaviour
 
     public void Update()
     {
-        countdown -= Time.deltaTime;
         if (attack == true)
         {
+            countdown -= Time.deltaTime;
             if (countdown <= 0f)
             {
                 TakeDamage(player);
