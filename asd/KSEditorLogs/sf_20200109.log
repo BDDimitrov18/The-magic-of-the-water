@@ -1,0 +1,35 @@
+2020-01-09 22:15:56.5047 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-09 22:16:40.8141 [INFO] Launching Session: SampleScene
+2020-01-09 22:16:42.7755 [DEBUG] Connecting
+2020-01-09 22:16:42.8356 [DEBUG] Connecting to room (111730:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-01-09 22:23:55.8770 [DEBUG] Sent C:/Users/bojidar/Desktop/2D Testing/2D Testing (1)/KSEditorLogs/SessionLogs/session.111730-637142050029378182.log
+2020-01-09 22:24:08.0959 [DEBUG] Connecting
+2020-01-09 22:24:08.1148 [DEBUG] Connecting to room (111730:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-01-09 22:24:36.6846 [DEBUG] Sent C:/Users/bojidar/Desktop/2D Testing/2D Testing (1)/KSEditorLogs/SessionLogs/session.111730-637142054481298829.log
+2020-01-09 22:25:53.4325 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-09 22:28:08.7206 [INFO] Launching Session: SampleScene
+2020-01-09 22:28:10.6535 [DEBUG] Connecting
+2020-01-09 22:28:10.7205 [DEBUG] Connecting to room (111734:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-01-09 22:28:50.9705 [DEBUG] Sent C:/Users/bojidar/Desktop/2D Testing/2D Testing (1)/KSEditorLogs/SessionLogs/session.111734-637142056907755796.log
+2020-01-09 22:30:35.0267 [INFO] Launching Session: SampleScene
+2020-01-09 22:30:37.0067 [DEBUG] Connecting
+2020-01-09 22:30:37.0386 [DEBUG] Connecting to room (111735:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-01-09 22:33:06.5506 [DEBUG] Sent C:/Users/bojidar/Desktop/2D Testing/2D Testing (1)/KSEditorLogs/SessionLogs/session.111735-637142058370406998.log
+2020-01-09 22:35:11.1763 [INFO] Launching Session: SampleScene
+2020-01-09 22:35:13.1588 [DEBUG] Connecting
+2020-01-09 22:35:13.1788 [DEBUG] Connecting to room (111737:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-01-09 22:41:40.3344 [DEBUG] Sent C:/Users/bojidar/Desktop/2D Testing/2D Testing (1)/KSEditorLogs/SessionLogs/session.111737-637142061133158692.log
+2020-01-09 22:47:06.0878 [INFO] Launching Session: SampleScene
+2020-01-09 22:47:08.0066 [DEBUG] Connecting
+2020-01-09 22:47:08.0236 [DEBUG] Connecting to room (111740:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-01-09 22:48:27.4408 [DEBUG] Sent C:/Users/bojidar/Desktop/2D Testing/2D Testing (1)/KSEditorLogs/SessionLogs/session.111740-637142068280686884.log
+2020-01-09 22:51:08.1476 [INFO] Launching Session: SampleScene
+2020-01-09 22:51:10.0729 [DEBUG] Connecting
+2020-01-09 22:51:10.1079 [DEBUG] Connecting to room (111742:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-01-09 22:54:09.9536 [DEBUG] Sent C:/Users/bojidar/Desktop/2D Testing/2D Testing (1)/KSEditorLogs/SessionLogs/session.111742-637142070701089420.log
+2020-01-09 22:56:26.2497 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-09 22:56:59.2977 [INFO] Launching Session: SampleScene
+2020-01-09 22:57:01.3639 [DEBUG] Connecting
+2020-01-09 22:57:01.4669 [DEBUG] Connecting to room (111745:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-01-09 22:58:22.9636 [DEBUG] Sent C:/Users/bojidar/Desktop/2D Testing/2D Testing (1)/KSEditorLogs/SessionLogs/session.111745-637142074214790194.log
+2020-01-09 23:02:48.8902 [DEBUG] Refresh token (kQPDwdIoMuw1FxJI526kO6ejIsb0DYKKLWSLIQ0eqda6lLj7ptslLdXpCfN1HPh727heMwGSOGgCZPydj5zD0ixQ1IC9odoHxQbug0hlYXMlp3gehJjlrgrlmEgMKJpyfArfg3Z3u465EKO4kUdoW5GkEmL6jSbaeOKtDO2FQfhimb3imbL7AY0QlSa3Qfic9kHEjzOe0PTxZtiX6pGFhOUHm8A4NuGg8m1JhhGXQi8DW8lJdcHLK2FQ5Q6iPDd) error: {"err":"Error: ConnectFailure (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.\r\n)"}

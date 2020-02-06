@@ -1,0 +1,981 @@
+2020-01-26 16:51:42.0982 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-26 16:51:47.2599 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-26 16:51:47.4318 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.4578 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-26 16:51:47.4638 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.4718 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.4788 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.4858 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.4928 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.4998 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5068 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5148 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5228 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5268 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5338 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5408 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5478 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5548 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5608 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5688 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5748 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5818 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5898 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.5958 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6108 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6148 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6228 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6308 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6368 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6428 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6508 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6578 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6638 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6718 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6778 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6838 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6918 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.6978 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7048 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7128 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7188 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7258 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7328 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7388 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7458 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7528 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7598 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7668 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7738 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7798 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7868 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.7948 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8008 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8078 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8149 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8219 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8289 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8349 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8419 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8499 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8569 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8619 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8699 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8759 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8829 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8909 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.8969 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9029 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9099 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9169 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9249 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9309 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9379 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9449 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9509 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9579 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9649 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9719 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9789 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9859 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9929 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:47.9989 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0059 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0129 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0199 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0319 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0379 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0449 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0519 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0589 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0659 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0729 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0789 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0859 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.0929 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1009 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1059 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1139 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1199 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1279 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1339 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1409 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1469 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1549 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1619 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1679 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1749 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1819 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.1899 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2009 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2069 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2139 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2209 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2289 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2349 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2419 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2489 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2549 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2630 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2710 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2770 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2840 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2910 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.2970 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3040 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3120 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3180 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3250 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3320 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3380 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3450 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3530 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3590 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3660 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3730 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3790 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3860 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.3940 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4000 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4070 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4140 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4210 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4280 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4350 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4410 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4490 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4550 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4620 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4700 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4750 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4820 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4900 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.4960 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5030 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5100 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5170 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5240 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5300 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5370 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5440 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5510 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5580 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5640 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5710 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5780 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5850 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5920 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.5990 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6050 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6130 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6190 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6260 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6330 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6470 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6520 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6590 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6660 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6740 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6800 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6860 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.6941 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7000 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7071 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7141 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7221 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7281 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7351 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7411 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7491 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7551 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7621 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7691 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7751 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7821 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7901 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.7961 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8031 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8101 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8161 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8241 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8311 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8371 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8441 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8511 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8581 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8641 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8721 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8781 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8851 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8931 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.8991 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9051 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9131 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9191 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9261 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9331 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9401 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9461 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9541 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9601 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9671 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9751 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9811 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9881 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:48.9951 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0011 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0081 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0151 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0231 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0291 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0361 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0421 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0491 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0571 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0631 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0711 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0761 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0831 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0911 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.0971 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1041 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1121 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1171 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1251 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1321 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1401 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1472 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1552 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1602 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1672 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1752 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1812 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1892 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.1942 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2022 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2102 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2162 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2232 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2302 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2362 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2442 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2512 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2582 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2652 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2722 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2782 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2852 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2932 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.2992 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3062 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3132 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3192 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3272 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3342 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3402 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3472 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3542 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3612 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3672 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3742 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3812 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3892 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.3952 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4022 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4092 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4162 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4232 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4302 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4362 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4432 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4502 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4572 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4632 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4702 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4772 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4842 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4912 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.4982 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5042 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5112 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5182 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5262 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5322 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5392 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5452 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5532 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5592 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5662 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5732 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5802 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5872 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.5943 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6003 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6073 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6143 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6213 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6283 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6363 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6413 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6483 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6663 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6703 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6773 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6843 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6913 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.6983 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:49.7053 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+HealthBar.Update () (at C:/Users/Mateev/Documents/GitHub/The-magic-of-the-water/2D Testing/Assets/Scripts/HealthBar.cs:30)
+
+2020-01-26 16:51:51.3496 [DEBUG] Play mode: False
+2020-01-26 16:55:38.8342 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-26 16:55:39.0632 [DEBUG] Play mode: True, sync in play mode: False
+2020-01-26 16:55:43.3792 [DEBUG] Play mode: False
+2020-01-26 18:47:02.5754 [DEBUG] Scene Fusion version 1.8.5-1
+2020-01-26 22:44:45.7837 [DEBUG] Scene Fusion version 1.8.5-1
