@@ -37829,3 +37829,1303 @@ HealthBar.Update () (at Assets/Scripts/HealthBar.cs:29)
 2020-02-08 18:25:39.3014 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
 Current Version: 1.8.5
 Latest Version: 1.8.6
+2020-02-08 19:47:56.7466 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-08 19:48:12.5342 [DEBUG] Scene Fusion: A new version of Scene Fusion is available.
+Current Version: 1.8.5
+Latest Version: 1.8.6
+2020-02-08 19:49:24.2776 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-08 19:49:24.4776 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-08 19:49:32.4171 [DEBUG] Play mode: False
+2020-02-08 19:49:52.5555 [DEBUG] Scene Fusion version 1.8.5-1
+2020-02-08 19:49:52.9825 [DEBUG] Play mode: True, sync in play mode: False
+2020-02-08 19:49:53.5397 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:53.5617 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:53.5977 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:53.6307 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:53.6837 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:53.7197 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:53.7537 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:53.7877 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:53.8547 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:53.9067 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:53.9403 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:54.0091 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:54.0431 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:54.0782 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:54.1122 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:54.1761 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:54.2081 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:54.2441 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:54.2781 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:54.3431 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:56.2784 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.2804 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.3454 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.3464 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.4014 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.4024 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.5047 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.5057 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.5867 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.5887 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.5937 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:56.6217 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.6237 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.6287 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:56.6587 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.6597 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.6627 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:56.7187 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.7207 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.7247 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:56.7547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.7567 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.7587 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:56.7877 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:56.8207 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.8227 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.8257 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.8267 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.8297 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:56.8957 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.8967 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.8987 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.8997 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.9017 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:56.9317 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:56.9337 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:56.9367 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:56.9667 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:57.0007 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.0017 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.0047 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:57.0697 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.0707 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.0737 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:57.1027 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.1037 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.1067 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:57.1377 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.1397 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.1447 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:57.1727 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.1737 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.1767 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:57.2367 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.2377 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.2397 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.2407 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.2437 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:57.2717 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:49:57.3387 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.3397 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.4027 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.4037 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.4377 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.4394 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.4729 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.4739 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.5619 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.5629 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.5649 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.5669 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.5969 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.5979 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.5999 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.6009 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.6330 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.6349 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.6659 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.6669 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.7609 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.7619 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.7639 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.7659 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.7970 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.7980 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.8969 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.8989 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.9170 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.9200 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.9229 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.9249 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.9589 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.9599 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.9619 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.9629 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:57.9929 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:57.9939 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.0549 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.0559 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.0589 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.0599 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.1250 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.1259 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.2130 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.2150 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.2189 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.2200 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.2829 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.2839 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.2870 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.2889 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.3179 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.3190 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.3869 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.3889 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.3909 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.3919 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.4220 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.4230 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.4539 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.4559 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.5429 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.5439 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.5459 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.5469 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.5479 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.5499 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.6139 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.6149 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.7119 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.7129 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.7159 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.7179 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.7209 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.7219 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.7229 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.7249 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.7269 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.7279 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.7909 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.7920 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.8249 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.8259 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.8849 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.8859 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.8879 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.8889 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.8909 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.8930 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.9199 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.9209 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.9549 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.9560 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.9569 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.9590 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:58.9610 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:58.9620 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.0429 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.0439 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.0789 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.0799 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.1129 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.1139 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.1169 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.1179 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.1479 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.1489 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.2109 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.2119 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.2439 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.2449 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.2789 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.2799 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.2819 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.2829 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.3810 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.3819 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.3849 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.3870 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.3880 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.3889 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.3909 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.3919 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.3939 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.3959 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.5110 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.5119 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.5149 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.5159 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.5739 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.5750 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.5769 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.5789 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.5799 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.5809 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.6430 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.6450 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.6460 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.6470 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.7060 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.7070 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.7740 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.7750 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.7760 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.7780 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.7800 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.7810 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.7830 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.7840 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.8090 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.8110 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.9047 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.9057 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.9067 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.9077 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.9371 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.9381 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.9721 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:49:59.9731 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.9741 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:49:59.9751 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.0401 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.0411 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.0421 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.0431 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.0721 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.0741 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.1421 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.1431 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.1991 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.2011 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.2031 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.2041 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.2051 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.2061 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.2341 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.2351 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.3041 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.3051 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.3731 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.3741 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.3751 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.3761 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.3791 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.3801 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.3831 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.3851 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.4771 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.4791 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.4801 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.4811 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.4821 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.4831 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.4861 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.4881 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.5561 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.5581 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.5921 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.5941 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.6271 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.6291 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.6301 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.6311 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.7351 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.7361 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.7381 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.7391 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.7401 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.7421 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.8031 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.8051 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.9011 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.9021 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.9041 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.9051 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.9071 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.9081 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:00.9351 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:00.9371 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.0811 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.0831 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.0861 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.0881 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.1511 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.1521 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.1561 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.1571 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.3121 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.3131 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.3151 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.3161 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.4011 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.4021 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.4711 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.4721 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.5731 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.5741 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.5761 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.5771 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.6771 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.6781 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.7561 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.7571 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.7611 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.7621 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:01.9561 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:01.9571 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:02.1021 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:02.1031 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:02.3911 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:02.3921 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:02.4951 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:02.4961 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:02.5631 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:02.5641 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:02.7311 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:02.7321 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:02.9331 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:02.9341 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:03.0981 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:03.1001 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:03.5981 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:26)
+
+2020-02-08 19:50:03.6001 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Bullet.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Scripts/Bullet.cs:36)
+
+2020-02-08 19:50:10.4090 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.4440 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.4780 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.5120 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.5690 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.6040 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.6390 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.6710 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.7270 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.7620 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.7980 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.8310 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.8880 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.9210 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.9560 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:10.9900 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:11.0500 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:11.0840 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:11.1200 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:11.1530 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:11.2150 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:11.2485 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:11.2835 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:11.3186 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:11.3875 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponent[T] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+Attack.TakeDamage (UnityEngine.GameObject obj) (at Assets/Scripts/Attack.cs:46)
+Attack.Update () (at Assets/Scripts/Attack.cs:21)
+
+2020-02-08 19:50:16.6027 [DEBUG] Play mode: False
