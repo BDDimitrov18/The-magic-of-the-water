@@ -26,6 +26,13 @@ public class HealthBar : MonoBehaviour
         {
             if (nowHealth <= 0)
             {
+                deathpanel.gameObject.SetActive(true);
+                deathpanel.SetTrigger("Death");
+                foreach (Animator an in deathanim)
+                {
+                    an.SetTrigger("StartTr");
+                }
+                Destroy(gameObject);
                 Destroy(health);
             }
         }

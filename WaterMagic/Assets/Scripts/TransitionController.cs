@@ -8,13 +8,7 @@ public class TransitionController : MonoBehaviour
     public Animator transitionAnim;
     public string sceneName;
 
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            StartCoroutine(LoadScene());
-        }
-    }
+    
 
     IEnumerator LoadScene()
     {
